@@ -127,3 +127,6 @@ a {
   cursor: pointer;
   transition: all 450ms ease-in-out;
 }
+.bnt span{
+  transform: translateY(3px);/*mueve el texto hacia abajo*/
+}
