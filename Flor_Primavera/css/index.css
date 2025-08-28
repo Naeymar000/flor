@@ -109,3 +109,21 @@ a {
   fill: white;
   transform: scale(1.2);
 }
+
+a {
+  text1-decoration: none;
+}
+
+.btn {
+  border: none;
+  width: 15em;
+  height: 5em;
+  border-radius: 3em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  background: #1C1A1C;
+  cursor: pointer;
+  transition: all 450ms ease-in-out;
+}
